@@ -1,4 +1,4 @@
 # ground-beef
-Hi I like funny jokes
+Hi I like funny jokes.
 What do you call a cow with no legs?
-Ground beef
+Ground beef.
